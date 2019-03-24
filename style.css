@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: darkgray;
+    text-align: center
+}
+
+div#container {
+    width: 1200px;
+    margin: 10px auto;
+}
+
+header {
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    height: 50px;
+    margin-bottom: 3px;
+}
+
+nav {
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    height: 50px;
+    margin-bottom: 3px;
+}
+
+#column1 {
+    background-color: lightgray;
+    width: 599px;
+    margin-right: 1px;
+    min-height: 300px;
+    margin-bottom: 3px;
+    float: left;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+    border: 6px solid darkgray;
+    background-color: darkgrey;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    border-top: 20px solid darkgray;
+    border-right: 18px solid darkgray;
+    border-left: 18px solid darkgrey;
+    border-bottom: 4px solid darkgrey;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    border-top: 6px solid darkgray;
+    border-right: 18px solid darkgray;
+    border-left: 18px solid darkgrey;
+    border-bottom: 20px solid darkgrey;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#aside {
+    background-color: lightgray;
+    width: 598px;
+    margin-left: 2px;
+    min-height: 300px;
+    margin-bottom: 3px;
+    float: right;
+}
+
+footer {
+    clear: both;
+    display: block;
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    min-height: 50px;
+    margin-top: 3px;
+}
