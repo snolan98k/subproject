@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: darkgray;
-    text-align: center
+    text-align: center;
 }
 
 div#container {
@@ -15,6 +15,7 @@ header {
     background-color: lightgrey;
     height: 50px;
     margin-bottom: 3px;
+    padding-top: 16px;
 }
 
 nav {
@@ -22,6 +23,7 @@ nav {
     background-color: lightgrey;
     height: 50px;
     margin-bottom: 3px;
+    padding-top: 16px;
 }
 
 #column1 {
@@ -37,6 +39,8 @@ nav {
 h1 {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 16px;
 }
 
 h2 {
@@ -49,12 +53,13 @@ h2 {
     margin-right: 20px;
     margin-bottom: 0;
     padding-bottom: 0;
+    padding-top: 16px;
 }
 
 h3 {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    height: 30px;
+    height: 40px;
     border-top: 20px solid darkgray;
     border-right: 18px solid darkgray;
     border-left: 18px solid darkgrey;
@@ -65,12 +70,13 @@ h3 {
     padding-top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
+    padding-top: 16px;
 }
 
 h4 {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    height: 30px;
+    height: 40px;
     border-top: 6px solid darkgray;
     border-right: 18px solid darkgray;
     border-left: 18px solid darkgrey;
@@ -81,6 +87,7 @@ h4 {
     padding-top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
+    padding-top: 16px;
 }
 
 #aside {
@@ -99,4 +106,5 @@ footer {
     background-color: lightgrey;
     min-height: 50px;
     margin-top: 3px;
+    padding-top: 16px;
 }
